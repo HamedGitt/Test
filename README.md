@@ -10,7 +10,7 @@ Example:
 <!p>
 
 <p align="center">
-<img width="500" height="300" alt="Screenshot 2025-11-03 at 1 55 27 PM" src="[(https://github.com/HamedGitt/Test/blob/main/example.jpg)]" />
+<img width="500" height="300" alt="Screenshot 2025-11-03 at 1 55 27 PM" src="[[(https://github.com/HamedGitt/Test/blob/main/example.jpg)]](https://github.com/HamedGitt/Test/blob/main/example.jpg?raw=true)" />
 <br>
 <em>Figure 2. random figure (DSCPM).</em>
 <!p>
