@@ -12,7 +12,6 @@ Example:
 <!-- <img width="3420" height="2224" alt="image" src="https://github.com/user-attachments/assets/7b7ae028-94c1-4ef2-8149-2e6a4fc088fb" /> -->
 
 
-<img width="522" height="513" alt="Screenshot 2025-01-27 at 9 03 13 PM" src="https://github.com/user-attachments/assets/c28597b0-f03b-4259-be8c-34bd519e37db" />
 
   
 iii
