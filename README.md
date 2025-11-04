@@ -9,7 +9,7 @@ Example:
 <em>Figure 1. Schematic of the Dual-Syringe Continuous Pumping Mechanism (DSCPM).</em>
 <!p>
 
-<img width="3420" height="2224" alt="image" src="https://github.com/user-attachments/assets/7b7ae028-94c1-4ef2-8149-2e6a4fc088fb" />
+<!-- <img width="3420" height="2224" alt="image" src="https://github.com/user-attachments/assets/7b7ae028-94c1-4ef2-8149-2e6a4fc088fb" /> -->
 
 
 
